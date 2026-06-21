@@ -1,0 +1,58 @@
+{
+  "launcher": {
+    "minVersion": "1.0.0",
+
+    "banners": [
+      "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/banners/tsot-promo.png",
+      "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/banners/entorno.png",
+      "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/banners/linea-mala.png"
+    ],
+
+    "news": [
+      {
+        "date": "2026-06-21",
+        "title": "TSOT Redux 1.3 disponible",
+        "body": "Nuevo specimen Camahueto y mejoras de rendimiento en la planta empacadora."
+      },
+      {
+        "date": "2026-06-10",
+        "title": "El Entorno en beta",
+        "body": "Los primeros 25 de los 100 especimenes ya estan jugables."
+      }
+    ]
+  },
+
+  "games": [
+    {
+      "id": "tsot-redux",
+      "name": "TSOT Redux",
+      "logo": "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/logos/tsot.png",
+      "banner": "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/banners/tsot-promo.png",
+      "description": "Survival horror ambientado en una planta empacadora de carne. Sobrevive a Luzionette, Monocromo HR, Golden Fredbear y mas.",
+      "version": "1.3.0",
+      "size": 524288000,
+      "downloadUrl": "https://github.com/TU-USUARIO/launcher-content/releases/download/tsot-v1.3.0/tsot-redux-1.3.0.zip",
+      "executable": "TSOTRedux.exe",
+      "changelog": [
+        "Nuevo specimen: Camahueto",
+        "Optimizacion de iluminacion",
+        "Corregidos bugs del modo Linea Mala"
+      ]
+    },
+    {
+      "id": "el-entorno",
+      "name": "El Entorno",
+      "logo": "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/logos/entorno.png",
+      "banner": "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/banners/entorno.png",
+      "description": "Modo secundario con 100 especimenes planificados. Explora, documenta y sobrevive.",
+      "version": "0.4.0",
+      "size": 157286400,
+      "downloadUrl": "https://github.com/TU-USUARIO/launcher-content/releases/download/entorno-v0.4.0/el-entorno-0.4.0.zip",
+      "executable": "ElEntorno.exe",
+      "changelog": [
+        "Especimenes 1 a 25 jugables",
+        "Sistema de documentacion inicial"
+      ]
+    }
+  ]
+}
