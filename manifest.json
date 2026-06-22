@@ -40,6 +40,18 @@
       ]
     },
     {
+      "id": "fnaffd-r",                   // id unico estable (no lo cambies)
+      "name": "Five Nights At Fredbear's Family Diner : Remake",
+      "logo": "https://raw.githubusercontent.com/Aestax/launcher-content/main/assets/logos/LFN.png",       // logo en la barra izquierda
+      "banner": "https://.../tsot.png",     // banner destacado del juego
+      "description": "Texto...",
+      "version": "1.0.1",                   // SUBE este numero para forzar actualizacion
+      "size": 524288000,                    // bytes (informativo)
+      "downloadUrl": "https://download.gamejolt.net/acf3a7768c8aab1af3cbe79743199779255b02e2fd1cc6606b00ebfd3dea9198,1782246476,7/data/games/9/130/600880/files/63e5351bd5a1d/five-nights-at-fredbear-s-family-diner-remake.rar",  // .ZIP con el juego dentro
+      "executable": "FNAFFDR.exe",        // ejecutable dentro del zip
+      "changelog": ["Cambio 1", "Cambio 2"]
+    },
+    {
       "id": "el-entorno",
       "name": "El Entorno",
       "logo": "https://raw.githubusercontent.com/TU-USUARIO/launcher-content/main/assets/logos/entorno.png",
